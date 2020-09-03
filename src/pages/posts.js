@@ -6,7 +6,7 @@ const Posts = ({ data }) => (
   <Layout>
     <h1>List of Posts </h1>
     <small>
-      The below is take from API{" "}
+      Below data is taken from API{" "}
       <a href="https://jsonplaceholder.typicode.com/posts" target="blank">
         <strong>'https://jsonplaceholder.typicode.com/posts'</strong>
       </a>
